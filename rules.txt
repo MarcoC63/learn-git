@@ -9,3 +9,6 @@ stage/add files
 
 commit file
 -git commit -m "some message"
+
+push to remote
+-git push origin master
