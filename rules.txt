@@ -1,2 +1,11 @@
+Make into git repo
+-git init
+
 check for changes
 -git status
+
+stage/add files
+-git add -A or git add filename
+
+commit file
+-git commit -m "some message"
